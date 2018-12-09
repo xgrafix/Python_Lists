@@ -2,6 +2,8 @@
 #
 #
 
+a = []
+
 def main():
     print('Hello World, Github!')
 
