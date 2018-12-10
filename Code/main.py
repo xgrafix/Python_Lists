@@ -22,6 +22,7 @@ foo = long_function_name(var_one, var_two,
 def main():
     print('Hello World, Github!')
     print(foo)
+    print('This is from Linux')
 
 
 if __name__ == '__main__':
